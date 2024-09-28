@@ -1,0 +1,23 @@
+header{
+    border-radius: 10px;
+    text-align: center;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.bordas{
+    
+        display: flex;
+        justify-content: center;
+        margin: 100px auto;
+        padding: 25px;
+        border: 3px solid #f1109b;
+        border-radius: 10px;
+        width: 60%;
+        background-color: rgba(147, 150, 150, 0.216);
+        
+    }
